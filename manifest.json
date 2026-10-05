@@ -1,11 +1,11 @@
 {
-  "name": "PROYECTO CONTROL",
-  "short_name": "Control",
-  "start_url": ".",
+  "name": "PROYECTO CONTROL 2.0",
+  "short_name": "PROYECTO CONTROL",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#f3f4f6",
   "theme_color": "#111827",
-  "description": "Organización personal: trabajo, estudio, gimnasio, alimentación, sueño, finanzas y tiempo libre.",
+  "description": "Organiza tu vida. Un día a la vez.",
   "icons": [
     {
       "src": "icon-192.png",
